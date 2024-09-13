@@ -8,5 +8,7 @@
 2. 将文件UnlockAll.exe名称改为你电脑中能够正常打开此文件的进程名称
 3. 双击在2步骤中的文件即可实现解密
 
-比如要实现对doc,xlsx等office文件解密，只需将文件2名称修改为wps.exe，然后双击即可。
+比如要实现对doc,xlsx等office文件解密，只需将文件2名称(UnlockAll.exe)修改为wpsoffice.exe，然后双击wpsoffice.exe即可。
+java文件 --java.exe
+office+pdf文件 -- wpsoffice.exe
 
